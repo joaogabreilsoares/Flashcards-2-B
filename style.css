@@ -2,7 +2,7 @@
     --card-front-color: #2d2d2d;
     --card-back-color: #444;
     --card-title-color: gold;
-    --text-color: white;
+    --text-color: rgb(240, 240, 240);
     --footer-color: black;
 }
 
@@ -37,7 +37,7 @@ body {
 /* Título fixo (tema do cartão) */
 .cartao__tema {
     background-color: var(--card-title-color);
-    color: black;
+    color: rgb(0, 0, 0);
     text-align: left;
     padding: 8px;
     position: absolute;
